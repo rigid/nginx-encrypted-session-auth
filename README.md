@@ -1,9 +1,9 @@
-= nginx encrypted session auth =
+# nginx encrypted session auth
 
 This is an example for nginx-only auth, using a HTTP POST form.
 It includes login/logout and per-user root directories.
 
-Prerequisites:
+## Prerequisites:
 * nginx
 
 and as modules:
